@@ -1,4 +1,4 @@
-title: "This is my Blog"
+title: This is my Blog
 date: 2021-06-02
 <p>Man-Bat originated as an anthropomorphic, feral, bat-like creature, lacking sentience and acting purely on instinct; the result of 
   Langstrom testing a serum that could supposedly give humans a bat's acute sonar sense on himself. Batman managed to reverse the effects, 
